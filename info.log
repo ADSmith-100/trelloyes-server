@@ -1,0 +1,23 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"List with id 2 not found.","level":"error"}
+{"message":"Card with id 14b32a66-932d-412b-bf72-4e0d53066436 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Content is required","level":"error"}
+{"message":"Card with id 1936fcca-317f-4eb2-8a46-6976fd05bcb4 created","level":"info"}
+{"message":"Card with id 1936fcca-317f-4eb2-8a46-6976fd05bcb4 not found.","level":"error"}
+{"message":"Card with id 1936fcca-317f-4eb2-8a46-6976fd05bcb4 not found.","level":"error"}
+{"message":"Card with id 016997e8-70bd-4ae1-a208-e98f2c6f6e55 created","level":"info"}
+{"message":"Header is required","level":"error"}
+{"message":"Header is required","level":"error"}
+{"message":"List with id c3b32546-e42b-4aac-876a-a055f2ba481e created","level":"info"}
+{"message":"Header is required","level":"error"}
+{"message":"List with id 7187a1c5-f284-4363-b090-603a5af1c21e created","level":"info"}
+{"message":"List with id b903a02b-4745-449f-8c5c-60f1e4e2712b created","level":"info"}
+{"message":"List with id 1 deleted.","level":"info"}
+{"message":"Card with id 1 deleted.","level":"info"}
+{"message":"Card with id 1 not found.","level":"error"}
+{"message":"List with id fbf3a7e3-071f-4859-80c7-d357173e5982 created","level":"info"}
+{"message":"List with id fbf3a7e3-071f-4859-80c7-d357173e5982 deleted.","level":"info"}
+{"message":"Card with id 87015acb-134b-4ec3-8c6e-2d891134b9fe created","level":"info"}
+{"message":"Card with id 87015acb-134b-4ec3-8c6e-2d891134b9fe deleted.","level":"info"}
